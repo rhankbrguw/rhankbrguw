@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=samaele13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+# Hi 👋
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=samaele13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
 ### Know more about me!
 
@@ -15,27 +15,26 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 
 ### 📞 Contact me!
 
-<div align="left">
-
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:raihanakbarg28@gmail.com)
-
-</div>
 
 ### 🧰 Language and tools
 
 <div align="center">
+<img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="center" alt="Svelte" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
-<img align="center" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 <br />
 
-## Statistics
+### Statistics
 
 ![Github profile stats](https://github-readme-stats.vercel.app/api?username=samaele13&show_icons=true&locale=en&theme=shades-of-purple)
 <br />
