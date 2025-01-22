@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="left">Hi 👋</h1>
+<img src="https://komarev.com/ghpvc/?username=samaele13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=samaele13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
 
 ### Know more about me!
 
