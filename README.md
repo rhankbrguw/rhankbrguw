@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaele13&label=Profile%20views&color=0e75b6&style=flat" alt="samaele13" /> </p>
 
-- 💬 Ask me about **express js**
-
 - 📫 How to reach me **raihanakbarg28@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
