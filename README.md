@@ -21,16 +21,16 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 ### 🧰 Language and tools
 
 <div align="center">
-  <img align="center" alt="HTML" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="CSS" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="JavaScript" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="NodeJS" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="PHP" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="MySQL" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Flutter" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Svelte" width="30px" style="margin: 0 15px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
-  <img align="center" alt="GitHub" width="30px" style="margin: 0 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="HTML" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" alt="CSS" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="JavaScript" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TypeScript" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="NodeJS" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="PHP" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="MySQL" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Flutter" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Svelte" width="30px" style="margin: 0 25px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
+  <img align="center" alt="GitHub" width="30px" style="margin: 0 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 <br />
