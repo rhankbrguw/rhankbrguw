@@ -43,8 +43,6 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 
 <div align="center">
   <!-- Row 2 -->
-  <img alt="Express.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-  &nbsp;&nbsp;
   <img alt="React" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   &nbsp;&nbsp;
   <img alt="Laravel" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
@@ -56,6 +54,8 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   <img alt="Bootstrap" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
   &nbsp;&nbsp;
   <img alt="Tailwind CSS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Express.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
   &nbsp;&nbsp;
   <img alt="Git" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
