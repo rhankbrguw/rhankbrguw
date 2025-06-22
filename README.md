@@ -22,60 +22,56 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 
 <div align="center">
 
-<style>
-a img { text-decoration: none; border: none; }
-</style>
-
   <!-- Row 1 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-    <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-    <img alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
-    <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
-    <img alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
-    <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;" />
   </a>
 
   <br><br>
 
   <!-- Row 2 -->
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-    <img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-    <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://svelte.dev/" target="_blank" style="text-decoration: none;">
-    <img alt="Svelte" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
+  <a href="https://svelte.dev/" target="_blank">
+    <img alt="Svelte" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://flutter.dev/" target="_blank" style="text-decoration: none;">
-    <img alt="Flutter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <a href="https://flutter.dev/" target="_blank">
+    <img alt="Flutter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
-    <img alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;" />
   </a>
   &nbsp;
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;" />
   </a>
 
 </div>
