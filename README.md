@@ -50,14 +50,14 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   <img alt="Git" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
 
-### Statistics
+### 📊 Statistics
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/samaele13">
     <img src="https://github-readme-stats.vercel.app/api?username=samaele13&show_icons=true&locale=en&theme=shades-of-purple" alt="Github profile stats" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/samaele13">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samaele13&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
   </a>
