@@ -20,7 +20,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 
 ### 🧰 Language and tools
 
-<div align="center" style="padding: 0 15px;">
+<div align="center" style="padding: 0 25px;">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
   <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
   <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
@@ -31,7 +31,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
 </div>
 
-<div align="center" style="padding: 0 15px;">
+<div align="center" style="padding: 0 25px;">
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
   <img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" />
   <img alt="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="40" />
