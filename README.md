@@ -29,9 +29,13 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   &nbsp;&nbsp;
   <img alt="TypeScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   &nbsp;&nbsp;
+  <img alt="Dart" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
+  &nbsp;&nbsp;
   <img alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   &nbsp;&nbsp;
   <img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Express.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
   &nbsp;&nbsp;
   <img alt="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   &nbsp;&nbsp;
@@ -40,6 +44,8 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   <img alt="Svelte" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />
   &nbsp;&nbsp;
   <img alt="Flutter" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Bootstrap" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
   &nbsp;&nbsp;
   <img alt="Tailwind CSS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" />
   &nbsp;&nbsp;
