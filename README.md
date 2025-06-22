@@ -1,7 +1,4 @@
 # Hi 👋
-<style>
-a img { text-decoration: none; border: none; }
-</style>
 
 <div align="center">
 
@@ -24,6 +21,10 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 ### 🧰 Language and tools
 
 <div align="center">
+
+<style>
+a img { text-decoration: none; border: none; }
+</style>
 
   <!-- Row 1 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
