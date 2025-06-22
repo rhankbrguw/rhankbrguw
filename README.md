@@ -1,5 +1,5 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align="left" /> Hi
 </h1>
 
 <div align="center">
@@ -56,6 +56,8 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   <a href="https://github.com/samaele13">
     <img src="https://github-readme-stats.vercel.app/api?username=samaele13&show_icons=true&locale=en&theme=shades-of-purple" alt="Github profile stats" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/samaele13">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samaele13&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
   </a>
@@ -75,7 +77,6 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   <a href="https://github.com/Samaele13/rumah-kosim-sveltekit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=rumah-kosim-sveltekit&theme=shades-of-purple" />
   </a>
-  &nbsp;
   <a href="https://github.com/Samaele13/el-ngadu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=el-ngadu&theme=shades-of-purple" />
   </a>
