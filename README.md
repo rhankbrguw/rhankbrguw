@@ -23,56 +23,32 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 <div align="center">
 
   <!-- Row 1 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-    <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  </a>
+  <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-    <img alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  </a>
+  <img alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </a>
+  <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
-    <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  </a>
+  <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   &nbsp;
-  <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
-    <img alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  </a>
+  <img alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   &nbsp;
-  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
-    <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </a>
+  <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
   <br><br>
 
   <!-- Row 2 -->
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-    <img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </a>
+  <img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   &nbsp;
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-    <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
+  <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   &nbsp;
-  <a href="https://svelte.dev/" target="_blank" style="text-decoration: none;">
-    <img alt="Svelte" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
-  </a>
+  <img alt="Svelte" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
   &nbsp;
-  <a href="https://flutter.dev/" target="_blank" style="text-decoration: none;">
-    <img alt="Flutter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  </a>
+  <img alt="Flutter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
-    <img alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  </a>
+  <img alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   &nbsp;
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
+  <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
 
