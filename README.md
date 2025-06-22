@@ -34,9 +34,9 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   &nbsp;&nbsp;
   <img alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Laravel" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
-  &nbsp;&nbsp;
   <img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 </div>
 
 <br />
@@ -45,9 +45,9 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   <!-- Row 2 -->
   <img alt="Express.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
   &nbsp;&nbsp;
-  <img alt="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  &nbsp;&nbsp;
   <img alt="React" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Laravel" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
   &nbsp;&nbsp;
   <img alt="Svelte" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />
   &nbsp;&nbsp;
