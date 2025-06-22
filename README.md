@@ -55,7 +55,8 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   &nbsp;&nbsp;
   <img alt="Tailwind CSS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Express.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+  <img alt="Express.js" width="45px" style="background-color: white; padding: 6px; border-radius: 6px;"               
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
   &nbsp;&nbsp;
   <img alt="Git" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
