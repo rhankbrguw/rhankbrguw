@@ -45,7 +45,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
   &nbsp;&nbsp;
   <img alt="Flutter" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Tailwind CSS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="Tailwind CSS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" />
   &nbsp;&nbsp;
   <img alt="Git" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
@@ -73,7 +73,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 
 ### 📌 Pinned Projects
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Samaele13/rumah-kosim-sveltekit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=rumah-kosim-sveltekit&theme=shades-of-purple" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/Samaele13/el-ngadu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=el-ngadu&theme=shades-of-purple" /></a>
