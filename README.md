@@ -21,37 +21,20 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 
 <div align="center">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
-  &nbsp;
   <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
-  &nbsp;
   <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
-  &nbsp;
   <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" />
-  &nbsp;
   <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" />
-  &nbsp;
   <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" />
-  &nbsp;
   <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
-  &nbsp;
   <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
-</div>
-<br />
-<div align="center">
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
-  &nbsp;
   <img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" />
-  &nbsp;
   <img alt="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="40" />
-  &nbsp;
   <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" />
-  &nbsp;
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" />
-  &nbsp;
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-  &nbsp;
   <img alt="Express.js" style="background-color: white; border-radius: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" />
-  &nbsp;
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
 </div>
 
