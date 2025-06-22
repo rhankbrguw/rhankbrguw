@@ -21,25 +21,44 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 ### 🧰 Language and tools
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding-inline: 24px;">
-    <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-    <img alt="TypeScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-    <img alt="Dart" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
-    <img alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-    <img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-    <img alt="Express.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-    <img alt="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-    <img alt="React" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img alt="Svelte" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />
-    <img alt="Flutter" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-    <img alt="Bootstrap" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-    <img alt="Tailwind CSS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" />
-    <img alt="Git" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  </div>
+  <!-- Row 1 -->
+  <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="TypeScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Dart" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Laravel" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+  &nbsp;&nbsp;
+  <img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 </div>
 
+<br />
+
+<div align="center">
+  <!-- Row 2 -->
+  <img alt="Express.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="React" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Svelte" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Flutter" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Bootstrap" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Tailwind CSS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Git" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+</div>
 
 ### 📊 Statistics
 
