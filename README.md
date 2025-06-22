@@ -23,55 +23,55 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 <div align="center">
 
   <!-- Row 1 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="border: none; outline: none;" />
+  <a href="html-link">
+    <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   </a>
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="border: none; outline: none;" />
+  <a href="css-link">
+    <img alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   </a>
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="border: none; outline: none;" />
+  <a href="js-link">
+    <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
   &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="border: none; outline: none;" />
+  <a href="ts-link">
+    <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </a>
   &nbsp;
-  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
-    <img alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="border: none; outline: none;" />
+  <a href="php-link">
+    <img alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </a>
   &nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="border: none; outline: none;" />
+  <a href="node-link">
+    <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a>
 
   <br><br>
 
   <!-- Row 2 -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="border: none; outline: none;" />
+  <a href="mysql-link">
+    <img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </a>
   &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="border: none; outline: none;" />
+  <a href="react-link">
+    <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
   &nbsp;
-  <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">
-    <img alt="Svelte" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="border: none; outline: none;" />
+  <a href="svelte-link">
+    <img alt="Svelte" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
   </a>
   &nbsp;
-  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
-    <img alt="Flutter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="border: none; outline: none;" />
+  <a href="flutter-link">
+    <img alt="Flutter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </a>
   &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="border: none; outline: none;" />
+  <a href="tailwind-link">
+    <img alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   </a>
   &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="border: none; outline: none;" />
+  <a href="git-link">
+    <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </a>
 
 </div>
@@ -81,3 +81,17 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 ![Github profile stats](https://github-readme-stats.vercel.app/api?username=samaele13&show_icons=true&locale=en&theme=shades-of-purple)
 <br />
 ![Top langugage stats](https://github-readme-stats.vercel.app/api/top-langs?username=samaele13&show_icons=true&locale=en&layout=compact&theme=shades-of-purple)
+
+<!-- Link References -->
+[html-link]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css-link]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[js-link]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[ts-link]: https://www.typescriptlang.org/
+[php-link]: https://www.php.net/
+[node-link]: https://nodejs.org/
+[mysql-link]: https://www.mysql.com/
+[react-link]: https://reactjs.org/
+[svelte-link]: https://svelte.dev/
+[flutter-link]: https://flutter.dev/
+[tailwind-link]: https://tailwindcss.com/
+[git-link]: https://git-scm.com/
