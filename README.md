@@ -18,63 +18,47 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
-### 🧰 Language and tools
+### 🧰 Language and Tools
 
-<div align="center">
-
-  <!-- Row 1 -->
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="45px" alt="HTML5"/>
   </a>
-  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45px" alt="CSS3"/>
   </a>
-  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" alt="JavaScript"/>
   </a>
-  &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45px" alt="TypeScript"/>
   </a>
-  &nbsp;
   <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45px" alt="PHP"/>
   </a>
-  &nbsp;
   <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45px" alt="Node.js"/>
   </a>
-
   <br><br>
-
-  <!-- Row 2 -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" alt="MySQL"/>
   </a>
-  &nbsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45px" alt="React"/>
   </a>
-  &nbsp;
   <a href="https://svelte.dev/" target="_blank">
-    <img alt="Svelte" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="vertical-align:top;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="45px" alt="Svelte"/>
   </a>
-  &nbsp;
   <a href="https://flutter.dev/" target="_blank">
-    <img alt="Flutter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45px" alt="Flutter"/>
   </a>
-  &nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="vertical-align:top;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45px" alt="TailwindCSS"/>
   </a>
-  &nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="vertical-align:top;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" alt="Git"/>
   </a>
-
-</div>
+</p>
 
 ### Statistics
 
