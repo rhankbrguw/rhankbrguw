@@ -21,7 +21,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
 ### 🧰 Language and tools
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding-inline: 24px;">
     <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -39,6 +39,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta.
     <img alt="Git" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   </div>
 </div>
+
 
 ### 📊 Statistics
 
