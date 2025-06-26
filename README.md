@@ -2,9 +2,12 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />&nbsp;Hi
 </h1>
 
+![Batman](./assets/batman.gif)
+
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Welcome!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Welcome!)](https://git.io/typing-svg)
+
 </div>
 
 ### Know more about me!
@@ -41,7 +44,6 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
   <img alt="Express.js" style="background-color: white; border-radius: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" />
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
 </div>
-
 
 ### 📊 Statistics
 
