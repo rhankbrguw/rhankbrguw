@@ -23,7 +23,9 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 ### 📞 Contact me!
 
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/#)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+<a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/">
+<img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn"/>
+</a>
 
 ### 🧰 Language and tools
 
