@@ -13,7 +13,7 @@
 ![Batman](./assets/batman.gif)
 </div>
 
-### Know more about me!
+### 🔍 Know more about me!
 
 <p>
 Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta, Indonesia. I'm passionate about technology and continuously learning new things in the world of IT. I enjoy working on various programming projects and expanding my knowledge in different areas of computer science.
