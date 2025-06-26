@@ -2,12 +2,15 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />&nbsp;Hi
 </h1>
 
-![Batman](./assets/batman.gif)
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Welcome!)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+
+![Batman](./assets/batman.gif)
 </div>
 
 ### Know more about me!
