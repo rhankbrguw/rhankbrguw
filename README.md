@@ -11,6 +11,7 @@
 <div align="center">
 
 ![Batman](./assets/batman.gif)
+
 </div>
 
 ### 🔍 Know more about me!
@@ -22,7 +23,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 ### 📞 Contact me!
 
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
 ### 🧰 Language and tools
 
