@@ -1,6 +1,4 @@
-<h1 align="left">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />&nbsp;Hi
-</h1>
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
 <div align="center">
 
@@ -8,43 +6,63 @@
 
 </div>
 
-### 🔍 Know more about me!
+## 🔍 Know more about me!
 
 <p>
 Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta, Indonesia. I'm passionate about technology and continuously learning new things in the world of IT. I enjoy working on various programming projects and expanding my knowledge in different areas of computer science.
 </p>
 
-### 📞 Contact me!
+## 📞 Contact me!
 
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/#)
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
-
-### 💻 Tech Stack 🚀
-
-<div align="center" style="padding: 0 25px;">
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" />
-  <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" />
-  <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" />
-  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
-  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
+<div align="center">
+  <a href="https://www.instagram.com/rhankbrguw_/#">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-<div align="center" style="padding: 0 25px;">
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
-  <img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" />
-  <img alt="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="40" />
-  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" />
-  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-  <img alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" style="background:white; padding:4px; border-radius:6px;" />
-  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
+## 💻 Tech Stack 🚀
+
+<div align="center">
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
+  &nbsp;
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
+  &nbsp;
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
+  &nbsp;
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" />
+  &nbsp;
+  <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" />
+  &nbsp;
+  <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" />
+  &nbsp;
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
+  &nbsp;
+  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
 </div>
 
-### 📊 Statistics
+<div align="center">
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
+  &nbsp;
+  <img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" />
+  &nbsp;
+  <img alt="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="40" />
+  &nbsp;
+  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" />
+  &nbsp;
+  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" />
+  &nbsp;
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+  &nbsp;
+  <img alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" style="background:white; padding:4px; border-radius:6px;" />
+  &nbsp;
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
+</div>
+
+## 📊 Statistics
 
 <p align="left">
   <a href="https://github.com/samaele13">
@@ -64,7 +82,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
   </a>
 </p>
 
-### 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
 <p align="center">
   <a href="https://github.com/samaele13">
@@ -72,7 +90,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
   </a>
 </p>
 
-### 📌 Pinned Projects
+## 📌 Pinned Projects
 
 <p align="left">
   <a href="https://github.com/Samaele13/rumah-kosim-sveltekit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=rumah-kosim-sveltekit&theme=shades-of-purple" /></a>
