@@ -8,12 +8,6 @@
 
 </div>
 
-<div align="center">
-
-![Batman](./assets/batman.gif)
-
-</div>
-
 ### 🔍 Know more about me!
 
 <p>
