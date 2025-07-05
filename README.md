@@ -1,5 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
+<!-- Profile updated: 2025-07-05 -->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Welcome!)](https://git.io/typing-svg)
@@ -14,7 +16,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 
 ## 📞 Contact me!
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/rhankbrguw_/#">
     <img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
