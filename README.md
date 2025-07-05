@@ -7,9 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Welcome!)](https://git.io/typing-svg)
 
 <br>
-<a href="https://github.com/samaele13">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RmYzhxZmFqbGY0djFwNnBjaHE1d2E3YzZ1MzdvNXMwMXkwbngxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QkiIdlJXvGPC/giphy.gif" width="350" alt="Klik untuk menuju profil GitHub">
-</a>
+<img src="/assets/joker.gif" width="350" alt="GIF deskriptif">
 
 </div>
 
@@ -24,7 +22,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/#)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
-### 💻 Tech Stack
+### 💻 Tech Stack 🚀
 
 <div align="center" style="padding: 0 25px;">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
