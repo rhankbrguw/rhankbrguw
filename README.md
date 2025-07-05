@@ -22,31 +22,75 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 ### 💻 Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <br/>
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#e34c26; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    HTML5
+  </span>
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <br/>
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#264de4; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    CSS3
+  </span>
 
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#f7df1e; color:black; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    JavaScript
+  </span>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#3178c6; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    TypeScript
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#00B4AB; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    Dart
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#02569B; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    Flutter
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#61dafb; color:black; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    React
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#ff3e00; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    Svelte
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#7952b3; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    Bootstrap
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#06B6D4; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    Tailwind
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#777BB4; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    PHP
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#ff2d20; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    Laravel
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#68A063; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" style="vertical-align:middle; margin-right:6px;" />
+    Node.js
+  </span>
+
+  <span style="display:inline-block; margin:4px; padding:6px 12px; border-radius:8px; background:#000000; color:white; font-weight:500;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="16" style="vertical-align:middle; margin-right:6px; background:white; border-radius:2px;" />
+    Express.js
+  </span>
 </p>
 
 ### 📊 Statistics
