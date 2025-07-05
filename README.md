@@ -38,8 +38,8 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
   <img alt="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="40" />
   <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" />
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-  <img alt="Express.js" style="background-color: white; border-radius: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" />
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+  <img alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" style="background:white; padding:4px; border-radius:6px;" />
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
 </div>
 
