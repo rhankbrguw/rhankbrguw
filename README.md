@@ -46,17 +46,17 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 
 <p align="left">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" border="0" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&locale=en&theme=shades-of-purple" alt="Github profile stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&locale=en&theme=github_dark" alt="Github profile stats" border="0" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top language stats" border="0" />
   </a>
 </p>
 
@@ -64,15 +64,15 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 
 <p align="center">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://github-profile-trophy.vercel.app/?username=rhankbrguw&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rhankbrguw&theme=github_dark&margin-w=10&no-frame=true" alt="GitHub Trophies" border="0" />
   </a>
 </p>
 
 ### 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/rhankbrguw/rumah-kosim-sveltekit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=rumah-kosim-sveltekit&theme=shades-of-purple" /></a>
+  <a href="https://github.com/rhankbrguw/rumah-kosim-sveltekit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=rumah-kosim-sveltekit&theme=github_dark" border="0" /></a>
 </p>
 <p align="left">
-  <a href="https://github.com/rhankbrguw/el-ngadu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=el-ngadu&theme=shades-of-purple" /></a>
+  <a href="https://github.com/rhankbrguw/el-ngadu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=el-ngadu&theme=github_dark" border="0" /></a>
 </p>
