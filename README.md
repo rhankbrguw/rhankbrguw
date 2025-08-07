@@ -1,6 +1,4 @@
-<h1 align="left">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />&nbsp;Hi
-</h1>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Hi
 
 <div align="center">
 
@@ -8,24 +6,22 @@
 
 </div>
 
-### 🔍 Know more about me!
+## 🔍 Know more about me!
 
-<p>
 Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta, Indonesia. I'm passionate about technology and continuously learning new things in the world of IT. I enjoy working on various programming projects and expanding my knowledge in different areas of computer science.
-</p>
 
-### 📞 Contact me!
+## 📞 Contact me!
 
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/#)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -42,37 +38,44 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 
 </div>
 
-### 📊 Statistics
+## 📊 Statistics
 
 <p align="left">
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" border="0" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&locale=en&theme=github_dark" alt="Github profile stats" border="0" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top language stats" border="0" />
-  </a>
+  <a href="https://github.com/samaele13">
+    <img src="https://komarev.com/ghpvc/?username=samaele13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
-### 🏆 GitHub Trophy
+<p align="left">
+  <a href="https://github.com/samaele13">
+    <img src="https://github-readme-stats.vercel.app/api?username=samaele13&show_icons=true&locale=en&theme=shades-of-purple" alt="Github profile stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/samaele13">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samaele13&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
+  </a>
+</p>
+
+## 🏆 GitHub Trophy
 
 <p align="center">
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://github-profile-trophy.vercel.app/?username=rhankbrguw&theme=github_dark&margin-w=10&no-frame=true" alt="GitHub Trophies" border="0" />
-  </a>
+  <a href="https://github.com/samaele13">
+    <img src="https://github-profile-trophy.vercel.app/?username=samaele13&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
-### 📌 Pinned Projects
+## 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/rhankbrguw/rumah-kosim-sveltekit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=rumah-kosim-sveltekit&theme=github_dark" border="0" /></a>
+  <a href="https://github.com/Samaele13/rumah-kosim-sveltekit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=rumah-kosim-sveltekit&theme=shades-of-purple" alt="Rumah Kosim SvelteKit" />
+  </a>
 </p>
+
 <p align="left">
-  <a href="https://github.com/rhankbrguw/el-ngadu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=el-ngadu&theme=github_dark" border="0" /></a>
+  <a href="https://github.com/Samaele13/el-ngadu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=el-ngadu&theme=shades-of-purple" alt="El Ngadu" />
+  </a>
 </p>
