@@ -64,7 +64,7 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <a href="https://github.com/samaele13">
+  <a href="https://github.com/rhankbrguw">
     <img src="https://github-profile-trophy.vercel.app/?username=samaele13&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
