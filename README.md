@@ -44,20 +44,20 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 ## 📊 Statistics
 
 <p align="left">
-  <a href="https://github.com/samaele13">
-    <img src="https://komarev.com/ghpvc/?username=samaele13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/rhankbrguw">
+    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/samaele13">
-    <img src="https://github-readme-stats.vercel.app/api?username=samaele13&show_icons=true&locale=en&theme=shades-of-purple" alt="Github profile stats" />
+  <a href="https://github.com/rhankbrguw">
+    <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&locale=en&theme=shades-of-purple" alt="Github profile stats" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/samaele13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samaele13&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
+  <a href="https://github.com/rhankbrguw">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
   </a>
 </p>
 
@@ -65,20 +65,20 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 
 <p align="center">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://github-profile-trophy.vercel.app/?username=samaele13&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rhankbrguw&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
 ## 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/Samaele13/rumah-kosim-sveltekit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=rumah-kosim-sveltekit&theme=shades-of-purple" alt="Rumah Kosim SvelteKit" />
+  <a href="https://github.com/rhankbrguw/rumah-kosim-sveltekit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=rumah-kosim-sveltekit&theme=shades-of-purple" alt="Rumah Kosim SvelteKit" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/Samaele13/el-ngadu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samaele13&repo=el-ngadu&theme=shades-of-purple" alt="El Ngadu" />
+  <a href="https://github.com/rhankbrguw/el-ngadu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=el-ngadu&theme=shades-of-purple" alt="El Ngadu" />
   </a>
 </p>
