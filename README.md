@@ -6,11 +6,11 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Computer-Science+Student" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0CDAF7,100:1e3a8a&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0CDAF7,100:1e3a8a&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Computer-Science+Student" alt="Typing SVG" />
 </div>
 
 ## 📞 Contact me!
