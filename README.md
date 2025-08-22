@@ -10,12 +10,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0CDAF7,100:1e3a8a&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
 </div>
 
 ## 📞 Contact me!
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+
+## 🚀 Contributions
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+</div>
 
 ## 📊 Statistics
 <p align="left">
