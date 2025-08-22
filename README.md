@@ -6,8 +6,6 @@
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Computer-Science+Student;Jakarta%2C+Indonesia;Building+Digital+Dreams;Welcome+to+My+Code+Journey" alt="Retro Typing SVG" />
 </div>
@@ -16,19 +14,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
-
 ## 💿 About This Profile
 
 ```
 ┌─────────────────────────────────────────────┐
-│  SYSTEM: GitHub Profile v2.0               │
 │  USER: rhankbrguw                           │
-│  STATUS: Online and Coding                  │
+│  STATUS: Alive                              │
 │  LOCATION: Jakarta, Indonesia               │
 │  INTERESTS: Technology, Innovation, Music   │
-│  MISSION: Creating digital solutions        │
-└─────────────────────────────────────────────┘
+│  MISSION: Looking Good                      │
+└─────────────────────────────────────────────┘                                        
+
 ```
 
 ## 📞 Connect With Me
@@ -42,7 +38,7 @@
 
 ---
 
-## 🎮 GitHub Activity Snake Game
+## Contributors
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
@@ -61,13 +57,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,50:4169E1,100:0000FF&height=100&section=footer&fontSize=0&animation=fadeIn" />
-</div>
-
-<div align="center">
-  
-**"The future belongs to those who code it"** 💻
-
-</div>
