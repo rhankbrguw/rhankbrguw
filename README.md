@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0CDAF7,100:1e3a8a&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0CDAF7,50:6366F1,100:1e3a8a&height=200&section=header&text=RAIHAN%20AKBAR&fontSize=50&fontColor=fff&animation=blinking&fontAlignY=35&desc=Crafting%20Digital%20Solutions&descSize=18&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -16,6 +16,19 @@
 ## 📞 Contact me!
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+
+## 🔍 Know more about me!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=0CDAF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Raihan+Akbar+Gunawan;Computer+Science+Student+%7C+Jakarta%2C+Indonesia;Passionate+about+Technology+%26+Innovation" alt="About me typing" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=🌐+Exploring+the+infinite+world+of+IT;💻+Building+projects+that+matter;📚+Always+learning%2C+always+growing;🚀+Turning+ideas+into+reality" alt="Skills typing" />
+</p>
 
 ## 🚀 Contributions
 <div align="center">
