@@ -1,8 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Hi
-
 <p align="left">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=4169E1&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -14,46 +13,40 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+<table align="center">
+<tr>
+<td width="50%">
+
 ## 💿 About This Profile
-
 ```
-┌─────────────────────────────────────────────┐
-│  USER: rhankbrguw                           │
-│  STATUS: Alive                              │
-│  LOCATION: Jakarta, Indonesia               │
-│  INTERESTS: Technology, Innovation, Music   │
-│  MISSION: Looking Good                      │
-└─────────────────────────────────────────────┘                                        
-
+┌─────────────────────────────┐
+│  USER: rhankbrguw           │
+│  STATUS: Alive              │
+│  LOCATION: Jakarta, ID      │
+│  INTERESTS: Tech, Music     │
+│  MISSION: Looking Good      │
+└─────────────────────────────┘                                        
 ```
 
 ## 📞 Connect With Me
-
-<div align="center">
-  
 [![Instagram](https://img.shields.io/badge/Instagram-4169E1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000080)](https://www.instagram.com/rhankbrguw_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000080)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
-</div>
+</td>
+<td width="50%">
 
----
-
-## Contributors
-
+## 🐍 Contributors
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 </div>
 
----
-
 ## 📊 System Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1" alt="Programming Languages Stats" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1" alt="Programming Languages Stats" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1&hide=issues" alt="GitHub Stats" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1&hide=issues" alt="GitHub Stats" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
