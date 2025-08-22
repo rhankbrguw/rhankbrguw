@@ -1,14 +1,12 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Welcome to My Digital Universe
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Hi
 
 <p align="left">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Visitors&color=4169E1&style=for-the-badge" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000080,50:4169E1,100:0000FF&height=150&section=header&text=RAIHAN%20AKBAR&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65&desc=~%20Crafting%20Code%20in%20the%20Digital%20Age%20~&descSize=16&descAlignY=85" />
-</div>
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Computer-Science+Student;Jakarta%2C+Indonesia;Building+Digital+Dreams;Welcome+to+My+Code+Journey" alt="Retro Typing SVG" />
