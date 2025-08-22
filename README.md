@@ -35,11 +35,6 @@
 </td>
 <td width="50%">
 
-## 🐍 Contributors
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
-
 ## 📊 System Statistics
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1" alt="Programming Languages Stats" />
 
@@ -50,3 +45,8 @@
 </table>
 
 ---
+
+## 🐍 Contributors
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
