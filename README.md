@@ -14,9 +14,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 900px;">
 </div>
 
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ## 💿 About This Profile
 ```
@@ -34,12 +34,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ## 📊 System Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=4169E1&text_color=C9D1D9&icon_color=4169E1&border_color=30363D" alt="Programming Languages Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1" alt="Programming Languages Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=4169E1&text_color=C9D1D9&icon_color=4169E1&border_color=30363D&hide=issues" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1&hide=issues" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=tokyonight&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&border=4169E1" alt="GitHub Streak" />
 
 </td>
 </tr>
