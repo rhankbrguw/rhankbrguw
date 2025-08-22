@@ -1,26 +1,75 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Hi
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Welcome to My Digital Universe
+
 <p align="left">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Visitors&color=4169E1&style=for-the-badge" alt="profile views" />
   </a>
 </p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0CDAF7,100:1e3a8a&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Computer-Science+Student" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000080,50:4169E1,100:0000FF&height=150&section=header&text=RAIHAN%20AKBAR&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65&desc=~%20Crafting%20Code%20in%20the%20Digital%20Age%20~&descSize=16&descAlignY=85" />
 </div>
 
-## 📞 Contact me!
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
-## 🚀 Contributions
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Computer-Science+Student;Jakarta%2C+Indonesia;Building+Digital+Dreams;Welcome+to+My+Code+Journey" alt="Retro Typing SVG" />
 </div>
-## 📊 Statistics
-<p align="left">
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
-  </a>
-</p
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+---
+
+## 💿 About This Profile
+
+```
+┌─────────────────────────────────────────────┐
+│  SYSTEM: GitHub Profile v2.0               │
+│  USER: rhankbrguw                           │
+│  STATUS: Online and Coding                  │
+│  LOCATION: Jakarta, Indonesia               │
+│  INTERESTS: Technology, Innovation, Music   │
+│  MISSION: Creating digital solutions        │
+└─────────────────────────────────────────────┘
+```
+
+## 📞 Connect With Me
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-4169E1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000080)](https://www.instagram.com/rhankbrguw_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000080)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+
+</div>
+
+---
+
+## 🎮 GitHub Activity Snake Game
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
+
+---
+
+## 📊 System Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1" alt="Programming Languages Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1&hide=issues" alt="GitHub Stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,50:4169E1,100:0000FF&height=100&section=footer&fontSize=0&animation=fadeIn" />
+</div>
+
+<div align="center">
+  
+**"The future belongs to those who code it"** 💻
+
+</div>
