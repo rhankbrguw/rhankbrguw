@@ -12,6 +12,12 @@
 
 </div>
 
+## 📞 Contact me!
+
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+
+## 📊 Statistics
 <p align="left">
   <a href="https://github.com/rhankbrguw">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
