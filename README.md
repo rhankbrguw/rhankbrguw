@@ -36,7 +36,7 @@
 </td>
 <td width="50%">
 
-## 📊 System Statistics
+## 📊 Statistics
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1" alt="Programming Languages Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1&hide=issues" alt="GitHub Stats" />
