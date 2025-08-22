@@ -47,9 +47,9 @@
 </tr>
 </table>
 
----
-
 ## 🐍 Contributors
 <div align="center">
   <img src="https://raw.githubusercontent.com/rhankbrguw/rhankbrguw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" style="max-width: 800px;" />
 </div>
+
+---
