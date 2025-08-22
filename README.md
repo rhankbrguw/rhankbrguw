@@ -6,10 +6,6 @@
 
 </div>
 
-## 🔍 Know more about me!
-
-Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta, Indonesia. I'm passionate about technology and continuously learning new things in the world of IT. I enjoy working on various programming projects and expanding my knowledge in different areas of computer science.
-
 ## 📞 Contact me!
 
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
@@ -58,27 +54,5 @@ Hi there! I'm Raihan Akbar Gunawan, a Computer Science student based in Jakarta,
 <p align="left">
   <a href="https://github.com/rhankbrguw">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="Top language stats" />
-  </a>
-</p>
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://github-profile-trophy.vercel.app/?username=rhankbrguw&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
-## 📌 Pinned Projects
-
-<p align="left">
-  <a href="https://github.com/rhankbrguw/rumah-kosim-sveltekit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=rumah-kosim-sveltekit&theme=shades-of-purple" alt="Rumah Kosim SvelteKit" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/rhankbrguw/el-ngadu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhankbrguw&repo=el-ngadu&theme=shades-of-purple" alt="El Ngadu" />
   </a>
 </p>
