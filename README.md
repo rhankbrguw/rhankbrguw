@@ -7,6 +7,7 @@
 </p>
 
 <div align="center">
+  <a href="https://github.com/rhankbrguw">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Computer-Science+Student;Jakarta%2C+Indonesia;Building+Digital+Dreams;Welcome+to+My+Code+Journey" alt="Retro Typing SVG" />
 </div>
 
@@ -37,10 +38,13 @@
 <td width="50%">
 
 ## 📊 Statistics
+<a href="https://github.com/rhankbrguw">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1" alt="Programming Languages Stats" />
 
+<a href="https://github.com/rhankbrguw">
 <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=4169E1&hide=issues" alt="GitHub Stats" />
 
+<a href="https://github.com/rhankbrguw">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=tokyonight&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&border=4169E1" alt="GitHub Streak" />
 
 </td>
@@ -49,6 +53,7 @@
 
 ## 🐍 Contributors
 <div align="center">
+  <a href="https://github.com/rhankbrguw">
   <img src="https://raw.githubusercontent.com/rhankbrguw/rhankbrguw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" style="max-width: 800px;" />
 </div>
 
