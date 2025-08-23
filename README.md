@@ -4,12 +4,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Jakarta%2C+Indonesia;Building+Software+Solutions;Passionate+Developer" alt="Typing Animation" />
 </div>
 
-## <span style="color: #3EB489">📡 Connect</span>
+## 📡 Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
-## <span style="color: #3EB489">💾 System Statistics</span>
+## 💾 System Statistics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rhankbrguw&color=0077B5&style=flat)
 
