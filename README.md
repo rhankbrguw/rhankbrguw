@@ -10,6 +10,8 @@
 [![Instagram](https://img.shields.io/badge/%20Instagram-3EB489?style=flat&logo=instagram&logoColor=black)](https://www.instagram.com/rhankbrguw_/)
 [![LinkedIn](https://img.shields.io/badge/[in]%20LinkedIn-3EB489?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
+---
+
 ## 💾 System Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=rhankbrguw&color=3EB489&style=flat)
 <div align="center">
