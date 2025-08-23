@@ -23,9 +23,9 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=600&size=10&duration=2500&pause=1000&color=FFFF00&center=true&vCenter=true&width=350&lines=%3E%3E%3E+SNAKE+LOADING...;%3E%3E%3E+RENDER+COMPLETE!" alt="Snake Loading Animation" />
+<div align="center"> 
+  <a href="https://github.com/rhankbrguw"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=10&duration=2500&pause=1000&color=FFFF00&center=true&vCenter=true&width=350&lines=%3E%3E%3E+SNAKE+LOADING...;%3E%3E%3E+RENDER+COMPLETE!" alt="Snake Loading Animation" /> 
   </a>
 
   <!-- Snake Animation -->
