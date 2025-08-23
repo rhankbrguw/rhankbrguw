@@ -8,12 +8,12 @@
 
 ## 📡 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+[![Instagram](https://img.shields.io/badge/📷%20Instagram-3EB489?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-3EB489?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
 ## 💾 System Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=rhankbrguw&color=0077B5&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=rhankbrguw&color=3EB489&style=flat)
 
 <div align="center">
   <a href="https://github.com/rhankbrguw">
@@ -30,4 +30,10 @@
   </a>
   
   <a href="https://github.com/rhankbrguw">
-    <img src="https://raw.githubusercontent.com/rhankbrguw/rhankbrguw/output/github-contribution-grid-snake-dark.svg
+    <img src="https://raw.githubusercontent.com/rhankbrguw/rhankbrguw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" style="max-width: 800px;" />
+  </a>
+  
+  <a href="https://github.com/rhankbrguw">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=10&duration=3000&pause=2000&color=00FFFF&center=true&vCenter=true&width=350&lines=%3E%3E%3E+SYSTEM%3A+ONLINE;%3E%3E%3E+THANKS+FOR+VISITING!" alt="Closing Animation" />
+  </a>
+</div>
