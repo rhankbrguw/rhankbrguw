@@ -7,14 +7,11 @@
 </div>
 
 ## 📡 Connect
-
-[![Instagram](https://img.shields.io/badge/📷%20Instagram-3EB489?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-3EB489?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+[![Instagram](https://img.shields.io/badge/%20Instagram-3EB489?style=flat&logo=instagram&logoColor=black)](https://www.instagram.com/rhankbrguw_/)
+[![LinkedIn](https://img.shields.io/badge/[in]%20LinkedIn-3EB489?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
 ## 💾 System Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=rhankbrguw&color=3EB489&style=flat&label_color=000000)
-
+![Profile Views](https://komarev.com/ghpvc/?username=rhankbrguw&color=3EB489&style=flat)
 <div align="center">
   <a href="https://github.com/rhankbrguw">
     <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=3EB489&text_color=E5E5E5&icon_color=3EB489" height="165" />
