@@ -15,7 +15,7 @@
 ## 💾 System Statistics
 
 <div align="center">
-  <a href="https://github.com/rhankbrguw">
+  <a href="https://github.com/rhankbrguw" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=3EB489&text_color=E5E5E5&icon_color=3EB489&ring_color=3EB489&border_radius=10" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=3EB489&text_color=E5E5E5&border_radius=10" height="165" />
   </a>
