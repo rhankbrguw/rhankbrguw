@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<hr style="border: 0.5px solid #333;">
+<hr>
 
 ## 📡 Connect
 [![Instagram](https://img.shields.io/badge/Instagram-3EB489?style=flat&logo=instagram&logoColor=black)](https://www.instagram.com/rhankbrguw_/)
