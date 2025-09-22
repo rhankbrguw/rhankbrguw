@@ -19,21 +19,18 @@
 
 ## 💾 System Statistics
 <div align="center">
-
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489&sideNums=3EB489&sideLabels=3EB489&dates=E5E5E5"
+    src="https://git-hub-streak-stats.vercel.app/?user=rhankbrguw&theme=tokyonight&hide_border=true"
     height="150"
-    alt="GitHub Streak"
-    style="display:inline-block; margin-right:10px;"
+    alt="GitHub streak stats"
+    style="display:inline-block; margin-right:10px;" 
   />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&langs_count=6"
-    height="150"
-    alt="Most Used Languages"
-    style="display:inline-block;"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&theme=tokyonight&layout=compact&hide_border=true" 
+    height="150" 
+    alt="Top languages stats"
+    style="display:inline-block;" 
   />
-
 </div>
 
 <hr style="border: 0.5px solid #333;">
