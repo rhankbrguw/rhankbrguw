@@ -14,8 +14,8 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 📡 Connect
-[![Instagram](https://badgen.net/badge/icon/Instagram/3EB489?icon=instagram&label)](https://www.instagram.com/rhankbrguw_/)
-[![LinkedIn](https://badgen.net/badge/icon/LinkedIn/3EB489?icon=linkedin&label)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+[![Instagram](https://img.shields.io/badge/Instagram-3EB489?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAAAAADIAQMAAABdsP3yAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAFRJREFUeJxjYIACQSzDBAYMAnMIIAINAwPDBAINEgMMBgUQIENgYGBgZIAAFiA8/f//v/j//38GIAZKd/8/ff7/79//GIAYIP//2f+f/P/3/z/CAMAviwz/s8A+jAAAAABJRU5ErkJggg==)](https://www.instagram.com/rhankbrguw_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3EB489?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAAAAADIAQMAAABdsP3yAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAADxJREFUeJxjYIACQSzDBAYMAnMIIAINAwPDBAINEgMMBgUQIEMgAAvY/1/8//9/gPz//38M4gIUwv//s/8/eP/v/38EAN0gDCLU3s+OAAAAAElFTkSuQmCC)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
 <hr style="border: 0.5px solid #333;">
 
