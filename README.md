@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Jakarta%2C+Indonesia;Building+Software+Solutions;Passionate+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Jakarta%2C+Indonesia+🌏;Building+Software+Solutions;Passionate+Developer+⚡" alt="Typing Animation" />
   </a>
 </div>
 
