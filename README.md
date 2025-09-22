@@ -20,7 +20,6 @@
 ## 💾 System Statistics
 <div align="center">
 
-<a href="https://github.com/rhankbrguw">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489&sideNums=3EB489&sideLabels=3EB489&dates=E5E5E5"
     height="150"
