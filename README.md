@@ -14,8 +14,20 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 📡 Connect
-[![Instagram](https://img.shields.io/badge/Instagram-3EB489?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAAAAADIAQMAAABdsP3yAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAFRJREFUeJxjYIACQSzDBAYMAnMIIAINAwPDBAINEgMMBgUQIENgYGBgZIAAFiA8/f//v/j//38GIAZKd/8/ff7/79//GIAYIP//2f+f/P/3/z/CAMAviwz/s8A+jAAAAABJRU5ErkJggg==)](https://www.instagram.com/rhankbrguw_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3EB489?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAAAAADIAQMAAABdsP3yAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAADxJREFUeJxjYIACQSzDBAYMAnMIIAINAwPDBAINEgMMBgUQIEMgAAvY/1/8//9/gPz//38M4gIUwv//s/8/eP/v/38EAN0gDCLU3s+OAAAAAElFTkSuQmCC)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+<p align="left">
+  <a href="https://www.instagram.com/rhankbrguw_/" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-flex; align-items: center; background-color: #3EB489; color: white; padding: 4px 10px; border-radius: 4px; font-family: sans-serif; font-size: 12px; font-weight: 600;">
+      <img src="https://img.icons8.com/?size=20&id=32323&format=png&color=FFFFFF" alt="Instagram" style="margin-right: 6px;"/>
+      Instagram
+    </span>
+  </a>
+  <a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-flex; align-items: center; background-color: #3EB489; color: white; padding: 4px 10px; border-radius: 4px; font-family: sans-serif; font-size: 12px; font-weight: 600;">
+      <img src="https://img.icons8.com/?size=20&id=85044&format=png&color=FFFFFF" alt="LinkedIn" style="margin-right: 6px;"/>
+      LinkedIn
+    </span>
+  </a>
+</p>
 
 <hr style="border: 0.5px solid #333;">
 
