@@ -20,8 +20,9 @@
 ## 💾 System Statistics
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489)](https://github.com/rhankbrguw)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&langs_count=6)](https://github.com/rhankbrguw)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489&card_width=350)](https://github.com/rhankbrguw)
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&langs_count=6&card_width=350)](https://github.com/rhankbrguw)
 
 </div>
 
