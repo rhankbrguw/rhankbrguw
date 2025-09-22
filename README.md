@@ -20,7 +20,7 @@
 ## 💾 System Statistics
 <div align="center">
   <img
-    src="https://git-hub-streak-stats.vercel.app/?user=rhankbrguw&theme=tokyonight&hide_border=true
+    src="https://streak-stats.demolab.com?user=rhankbrguw&theme=tokyonight&hide_border=true
     &ring=3EB489&fire=3EB489&currStreakLabel=3EB489
     &sideNums=E5E5E5&sideLabels=E5E5E5&dates=E5E5E5"
     height="150"
