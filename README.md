@@ -1,6 +1,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Hi 
 <img align="left" src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=3EB489&style=flat" alt="Profile views" />
 
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Software+Engineer;Passionate+Programmer" alt="Typing Animation" />
 </div>
