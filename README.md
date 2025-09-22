@@ -17,22 +17,18 @@
 
 ## 💾 System Statistics
 <div align="center">
-  <a href="https://github.com/rhankbrguw">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=0d1117&ring=3EB489&fire=3EB489&currStreakLabel=3EB489" 
-      alt="GitHub Streak" 
-      height="180em" 
-      style="margin: 0 10px;" 
-    />
-  </a>
-  <a href="https://github.com/rhankbrguw">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3EB489&text_color=E5E5E5" 
-      alt="Most Used Languages" 
-      height="180em" 
-      style="margin: 0 10px;" 
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&icon_color=3EB489&hide=issues"
+    height="150"
+    alt="GitHub Stats"
+    style="display:inline-block; margin-right:10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&langs_count=6" 
+    height="150" 
+    alt="Most Used Languages"
+    style="display:inline-block;" 
+  />
 </div>
 
 <hr style="border: 0.5px solid #333;">
