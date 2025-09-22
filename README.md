@@ -20,22 +20,18 @@
 ## 💾 System Statistics
 
 <div align="center">
-  <a href="https://github.com/rhankbrguw" style="text-decoration: none;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489"
-      height="150"
-      alt="GitHub Streak"
-      style="display:inline-block; margin-right:10px;" 
-    />
-  </a>
-  <a href="https://github.com/rhankbrguw" style="text-decoration: none;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&langs_count=6" 
-      height="150" 
-      alt="Most Used Languages"
-      style="display:inline-block;" 
-    />
-  </a>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489"
+    height="150"
+    alt="GitHub Streak"
+    style="display:inline-block; margin-right:10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&langs_count=6" 
+    height="150" 
+    alt="Most Used Languages"
+    style="display:inline-block;" 
+  />
 </div>
 
 <hr style="border: 0.5px solid #333;">
