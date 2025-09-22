@@ -4,7 +4,9 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Software+Engineer;Passionate+Programmer" alt="Typing Animation" />
+  <a href="https://github.com/rhankbrguw">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Software+Engineer;Passionate+Programmer" alt="Typing Animation" />
+  </a>
 </div>
 
 <hr style="border: 0.5px solid #333;">
@@ -18,18 +20,22 @@
 ## 💾 System Statistics
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489"
-    height="150"
-    alt="GitHub Streak"
-    style="display:inline-block; margin-right:10px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&langs_count=6" 
-    height="150" 
-    alt="Most Used Languages"
-    style="display:inline-block;" 
-  />
+  <a href="https://github.com/rhankbrguw">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489"
+      height="150"
+      alt="GitHub Streak"
+      style="display:inline-block; margin-right:10px;" 
+    />
+  </a>
+  <a href="https://github.com/rhankbrguw">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&langs_count=6" 
+      height="150" 
+      alt="Most Used Languages"
+      style="display:inline-block;" 
+    />
+  </a>
 </div>
 
 <hr style="border: 0.5px solid #333;">
