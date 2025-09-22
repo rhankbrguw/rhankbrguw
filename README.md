@@ -17,18 +17,22 @@
 
 ## 💾 System Statistics
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=tokyonight&hide_border=true&background=0d1117" 
-    alt="GitHub Streak" 
-    height="180em" 
-    style="vertical-align: top; margin: 0 5px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" 
-    alt="Most Used Languages" 
-    height="180em" 
-    style="vertical-align: top; margin: 0 5px;" 
-  />
+  <a href="https://github.com/rhankbrguw">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=0d1117&ring=3EB489&fire=3EB489&currStreakLabel=3EB489" 
+      alt="GitHub Streak" 
+      height="180em" 
+      style="margin: 0 10px;" 
+    />
+  </a>
+  <a href="https://github.com/rhankbrguw">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3EB489&text_color=E5E5E5" 
+      alt="Most Used Languages" 
+      height="180em" 
+      style="margin: 0 10px;" 
+    />
+  </a>
 </div>
 
 <hr style="border: 0.5px solid #333;">
@@ -50,6 +54,6 @@
 ## 📌 Push Contributions  
 <div align="center"> 
   <a href="https://github.com/rhankbrguw">
-    <img src="https://raw.githubusercontent.com/rhankbrguw/rhankbrguw/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3EB489" alt="Snake animation" width="100%" style="max-width: 800px;" />
+    <img src="https://raw.githubusercontent.com/rhankbrguw/rhankbrguw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" style="max-width: 800px;" />
   </a>
 </div>
