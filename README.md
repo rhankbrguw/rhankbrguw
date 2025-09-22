@@ -14,20 +14,23 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 📡 Connect
-<a href="https://www.instagram.com/rhankbrguw_/" target="_blank" style="text-decoration: none; border: 0; box-shadow: none;">
-  <img 
-    width="32" 
-    src="https://img.icons8.com/?size=96&id=32292&format=png&color=3EB489" 
-    alt="Instagram" 
-    style="border:0;">
-</a>
-<a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/" target="_blank" style="text-decoration: none; border: 0; box-shadow: none;">
-  <img 
-    width="32" 
-    src="https://img.icons8.com/?size=96&id=85044&format=png&color=3EB489" 
-    alt="LinkedIn" 
-    style="border:0;">
-</a>
+<p align="left">
+  <a href="https://www.instagram.com/rhankbrguw_/" target="_blank" style="text-decoration: none; border: 0; box-shadow: none;">
+    <img 
+      width="32" 
+      src="https://img.icons8.com/?size=96&id=32292&format=png&color=3EB489" 
+      alt="Instagram" 
+      style="border:0;">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/" target="_blank" style="text-decoration: none; border: 0; box-shadow: none;">
+    <img 
+      width="32" 
+      src="https://img.icons8.com/?size=96&id=85044&format=png&color=3EB489" 
+      alt="LinkedIn" 
+      style="border:0;">
+  </a>
+</p>
 
 <hr style="border: 0.5px solid #333;">
 
