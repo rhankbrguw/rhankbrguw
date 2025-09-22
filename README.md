@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<hr>
+<hr style="border: 0.5px solid #333;">
 
 ## 📡 Connect
 [![Instagram](https://img.shields.io/badge/Instagram-3EB489?style=flat&logo=instagram&logoColor=black)](https://www.instagram.com/rhankbrguw_/)
@@ -16,23 +16,10 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 💾 System Statistics
+
 <div align="center">
-  <a href="https://github.com/rhankbrguw">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=0d1117&ring=3EB489&fire=3EB489&currStreakLabel=3EB489" 
-      alt="GitHub Streak" 
-      height="180em" 
-      style="margin: 0 10px;" 
-    />
-  </a>
-  <a href="https://github.com/rhankbrguw">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3EB489&text_color=E5E5E5" 
-      alt="Most Used Languages" 
-      height="180em" 
-      style="margin: 0 10px;" 
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&icon_color=3EB489&card_width=400&hide=issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&card_width=400&langs_count=6" alt="Most Used Languages" />
 </div>
 
 <hr style="border: 0.5px solid #333;">
@@ -42,18 +29,4 @@
   <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /></a>
   <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></a>
   <a href="https://svelte.dev" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" /></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /></a>
-  <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
-</p>
-
-<hr style="border: 0.5px solid #333;">
-
-## 📌 Push Contributions  
-<div align="center"> 
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://raw.githubusercontent.com/rhankbrguw/rhankbrguw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" style="max-width: 800px;" />
-  </a>
-</div>
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter
