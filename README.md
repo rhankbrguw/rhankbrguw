@@ -14,8 +14,8 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 📡 Connect
-[![Instagram](https://img.shields.io/badge/Instagram-3EB489?style=flat&logo=instagram&logoColor=black)](https://www.instagram.com/rhankbrguw_/)
-[![LinkedIn](https://img.shields.io/badge/logo-linkedin-logo=linkedin)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rhankbrguw_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
 <hr style="border: 0.5px solid #333;">
 
