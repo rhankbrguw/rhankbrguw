@@ -1,5 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Hi 
-<img href="https://github.com/rhankbrguw" align="left" src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=3EB489&style=flat" alt="Profile views" />
+<a href="https://github.com/rhankbrguw">
+  <img align="left" src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=3EB489&style=flat" alt="Profile views" />
+</a>
 
 <br>
 
