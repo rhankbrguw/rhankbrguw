@@ -20,13 +20,16 @@
 ## 💾 System Statistics
 <div align="center">
   <img
-    src="https://git-hub-streak-stats.vercel.app/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=3EB489&fire=3EB489&currStreakLabel=3EB489&sideNums=3EB489&sideLabels=3EB489&dates=3EB489"
+    src="https://git-hub-streak-stats.vercel.app/?user=rhankbrguw&theme=tokyonight&hide_border=true
+    &ring=3EB489&fire=3EB489&currStreakLabel=3EB489
+    &sideNums=E5E5E5&sideLabels=E5E5E5&dates=E5E5E5"
     height="150"
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&theme=tokyonight&layout=compact&hide_border=true&title_color=3EB489&text_color=3EB489"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&theme=tokyonight&layout=compact&hide_border=true
+    &title_color=3EB489&text_color=E5E5E5"
     height="150" 
     alt="Top languages stats"
     style="display:inline-block;" 
