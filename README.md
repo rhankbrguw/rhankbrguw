@@ -20,16 +20,13 @@
 ## 💾 System Statistics
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=rhankbrguw&theme=tokyonight&hide_border=true
-    &ring=3EB489&fire=3EB489&currStreakLabel=3EB489
-    &sideNums=E5E5E5&sideLabels=E5E5E5&dates=E5E5E5"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideNums=7dcfff&sideLabels=9aa5ce&dates=565f89"
     height="150"
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&theme=tokyonight&layout=compact&hide_border=true
-    &title_color=3EB489&text_color=E5E5E5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&theme=tokyonight&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_color=565f89"
     height="150" 
     alt="Top languages stats"
     style="display:inline-block;" 
