@@ -21,7 +21,7 @@
 
 ## 💾 System Statistics
 <div align="center">
- <a href="https://github.com/rhankbrguw" style="text-decoration: none;">
+ <a href="https://github.com/rhankbrguw" style="text-decoration: none; border: 0;">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=414868&fire=f7768e&currStreakLabel=3EB489&sideNums=3EB489&sideLabels=c0caf5&dates=9aa5ce"
     height="150"
