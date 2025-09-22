@@ -18,9 +18,9 @@
 ## 💾 System Statistics
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rhankbrguw&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=3EB489&text_color=E5E5E5&icon_color=3EB489&hide=issues"
+    src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=dark&hide_border=true&background=161b22&ring=3EB489&fire=3EB489&currStreakLabel=3EB489"
     height="150"
-    alt="GitHub Stats"
+    alt="GitHub Streak"
     style="display:inline-block; margin-right:10px;" 
   />
   <img 
