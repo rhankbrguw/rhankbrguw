@@ -14,8 +14,15 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 📡 Connect
-[![Instagram](https://img.icons8.com/?size=48&id=32323&format=png&color=3EB489)](https://www.instagram.com/rhankbrguw_/)
-[![LinkedIn](https://img.icons8.com/?size=48&id=85044&format=png&color=3EB489)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
+<p align="left">
+  <a href="https://www.instagram.com/rhankbrguw_/" target="_blank">
+    <img src="https://badgen.net/badge/icon/instagram/3EB489?icon=instagram" alt="Instagram" width="32" height="32">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/" target="_blank">
+    <img src="https://badgen.net/badge/icon/linkedin/3EB489?icon=linkedin" alt="LinkedIn" width="32" height="32">
+  </a>
+</p>
 
 <hr style="border: 0.5px solid #333;">
 
