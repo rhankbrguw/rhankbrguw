@@ -17,10 +17,18 @@
 
 ## 💾 System Statistics
 <div align="center">
-  <a href="https://github.com/rhankbrguw">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=dark&hide_border=true&background=0D0D0D&stroke=3EB489&ring=3EB489&fire=3EB489&currStreakLabel=3EB489&sideLabels=E5E5E5&dates=888888" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhankbrguw&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=3EB489&text_color=E5E5E5&border_radius=10" height="170" />
-  </a>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=rhankbrguw&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="180em" 
+    style="vertical-align: top;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Most Used Languages" 
+    height="180em" 
+    style="vertical-align: top;" 
+  />
 </div>
 
 <hr style="border: 0.5px solid #333;">
