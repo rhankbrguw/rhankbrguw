@@ -15,11 +15,11 @@
 
 ## 📡 Connect
 <p align="left">
-  <a href="https://www.instagram.com/rhankbrguw_/" target="_blank">
-    <img src="https://img.icons8.com/?size=96&id=32309&format=png&color=3EB489" alt="Instagram" width="32" style="border:0;">
+  <a href="https://www.instagram.com/rhankbrguw_/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=96&id=32292&format=png&color=3EB489" alt="Instagram" width="32" style="border:0;">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/" target="_blank">
+  <a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=96&id=85044&format=png&color=3EB489" alt="LinkedIn" width="32" style="border:0;">
   </a>
 </p>
