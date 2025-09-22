@@ -14,20 +14,8 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 📡 Connect
-<p align="left">
-  <a href="https://www.instagram.com/rhankbrguw_/" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center; background-color: #3EB489; color: white; padding: 4px 10px; border-radius: 4px; font-family: sans-serif; font-size: 12px; font-weight: 600;">
-      <img src="https://img.icons8.com/?size=20&id=32323&format=png&color=FFFFFF" alt="Instagram" style="margin-right: 6px;"/>
-      Instagram
-    </span>
-  </a>
-  <a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center; background-color: #3EB489; color: white; padding: 4px 10px; border-radius: 4px; font-family: sans-serif; font-size: 12px; font-weight: 600;">
-      <img src="https://img.icons8.com/?size=20&id=85044&format=png&color=FFFFFF" alt="LinkedIn" style="margin-right: 6px;"/>
-      LinkedIn
-    </span>
-  </a>
-</p>
+[![Instagram](https://img.icons8.com/?size=48&id=32323&format=png&color=3EB489)](https://www.instagram.com/rhankbrguw_/)
+[![LinkedIn](https://img.icons8.com/?size=48&id=85044&format=png&color=3EB489)](https://www.linkedin.com/in/raihan-akbar-2b5820334/)
 
 <hr style="border: 0.5px solid #333;">
 
