@@ -57,7 +57,7 @@
 
 <hr style="border: 0.5px solid #333;">
 
-## 🛠️ Tech Stack & Tools  
+🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
   <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />   </a>
@@ -66,7 +66,7 @@
   <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />    </a>
   <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"     /></a>
   <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat square&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-  square&logo=tailwindcss&logoColor=white" /></a>
 </p>
 
 <hr style="border: 0.5px solid #333;">
