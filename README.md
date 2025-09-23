@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Hi 
+
 <a href="https://github.com/rhankbrguw">
   <img align="left" src="https://komarev.com/ghpvc/?username=rhankbrguw&label=Profile%20views&color=3EB489&style=flat" alt="Profile views" />
 </a>
@@ -15,6 +16,7 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 📡 Connect
+
 <p align="left">
   <a href="https://www.instagram.com/rhankbrguw_/" target="_blank" style="text-decoration: none; border: 0; box-shadow: none;">
     <img 
@@ -36,23 +38,27 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 💾 System Statistics
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=3EB489&fire=f7768e&currStreakLabel=c0caf5&sideNums=7aa2f7&sideLabels=c0caf5&dates=9aa5ce"
-    height="150"
-    alt="GitHub streak stats"
-    style="display:inline-block; margin-right:10px;" 
-  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=3EB489&fire=f7768e&currStreakLabel=c0caf5&currStreakNum=3EB489&sideNums=3EB489&sideLabels=c0caf5&dates=9aa5ce"
+    height="150"
+    alt="GitHub streak stats"
+    style="display:inline-block; margin-right:10px;" 
+  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?    username=rhankbrguw&theme=tokyonight&layout=compact&hide_border=true&title_color=3EB489&text_color=c0caf5&icon_color=7aa2f7&border_color=414868&animation=true&hide_progress=false"
-    height="150" 
-    alt="Top languages stats"
-    style="display:inline-block;" 
-  />
-</div
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&theme=tokyonight&layout=compact&hide_border=true&title_color=3EB489&text_color=c0caf5&icon_color=7aa2f7&border_color=414868&animation=true&hide_progress=false"
+    height="150" 
+    alt="Top languages stats"
+    style="display:inline-block;" 
+  />
+</div>
 
 <hr style="border: 0.5px solid #333;">
 
 ## 🛠️ Tech Stack & Tools  
+
 <p align="left">
   <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
   <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
@@ -67,6 +73,7 @@
 <hr style="border: 0.5px solid #333;">
 
 ## 📌 Push Contributions  
+
 <div align="center"> 
   <a href="https://github.com/rhankbrguw">
     <img src="https://raw.githubusercontent.com/rhankbrguw/rhankbrguw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" style="max-width: 800px;" />
