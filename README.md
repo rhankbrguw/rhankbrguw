@@ -57,7 +57,7 @@
 
 <hr style="border: 0.5px solid #333;">
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 <p align="left">
   <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
   <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />   </a>
