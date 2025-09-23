@@ -4,10 +4,11 @@
 </a>
 
 <br>
+<br>
 
 <div align="center">
   <a href="https://github.com/rhankbrguw">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Hi,+I'm+Raihan+Akbar+Gunawan;Computer+Science+Student;Software+Engineer;Passionate+Programmer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Hi,+I'm+Raihan+Akbar+Gunawan;Computer+Science+Student;Software+Engineer;Hit+Me+Up+For+More!" alt="Typing Animation" />
   </a>
 </div>
 
