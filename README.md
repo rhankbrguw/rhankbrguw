@@ -38,7 +38,7 @@
 ## 💾 System Statistics
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=3EB489&fire=f7768e&currStreakLabel=c0caf5&currStreakNum=3EB489&sideNums=3EB489&sideLabels=c0caf5&dates=9aa5ce"
+    src="https://streak-stats.demolab.com/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=3EB489&fire=f7768e&currStreakNum=3EB489&currStreakLabel=c0caf5&sideNums=3EB489&sideLabels=c0caf5&dates=9aa5ce"
     height="150"
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
