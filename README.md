@@ -35,9 +35,6 @@
 
 <hr style="border: 0.5px solid #333;">
 
-
-Percakapan dengan Gemini
-
 ## 💾 System Statistics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=3EB489&fire=f7768e&currStreakLabel=c0caf5&sideNums=7aa2f7&sideLabels=c0caf5&dates=9aa5ce"
