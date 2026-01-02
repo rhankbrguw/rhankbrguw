@@ -39,6 +39,22 @@
 
 <hr style="border: 0.5px solid #333;">
 
+## 💾 System Statistics
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=rhankbrguw&theme=tokyonight&hide_border=true&ring=164031&fire=f7768e&currStreakLabel=c0caf5&currStreakNum=3EB489&sideNums=3EB489&sideLabels=c0caf5&dates=9aa5ce"
+    height="150"
+    alt="GitHub streak stats"
+    style="display:inline-block; margin-right:10px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhankbrguw&theme=tokyonight&layout=compact&hide_border=true&title_color=3EB489&text_color=c0caf5&icon_color=7aa2f7&border_color=414868&animation=true&hide_progress=false"
+    height="150"
+    alt="Top languages stats"
+    style="display:inline-block;"
+  />
+</div>
+
 ## 🛠️ Tech Stack & Tools  
 <p align="left">
   <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
