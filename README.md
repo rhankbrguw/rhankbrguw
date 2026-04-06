@@ -18,41 +18,6 @@
 
 <hr style="border: 0.5px solid #333;">
 
-## 📡 Connect
-<p align="left">
-  <a href="https://www.instagram.com/rhankbrguw_/" target="_blank" style="text-decoration: none; border: 0; box-shadow: none;">
-    <img 
-      width="32" 
-      src="https://img.icons8.com/?size=96&id=32292&format=png&color=3EB489" 
-      alt="Instagram" 
-      style="border:0;">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/raihan-akbar-2b5820334/" target="_blank" style="text-decoration: none; border: 0; box-shadow: none;">
-    <img 
-      width="32" 
-      src="https://img.icons8.com/?size=96&id=85044&format=png&color=3EB489" 
-      alt="LinkedIn" 
-      style="border:0;">
-  </a>
-</p>
-
-<hr style="border: 0.5px solid #333;">
-
-## 🛠️ Tech Stack & Tools  
-<p align="left">
-  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://svelte.dev" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" /></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /></a>
-  <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
-</p>
-
-<hr style="border: 0.5px solid #333;">
-
 ## 📌 Push Contributions  
 <div align="center"> 
   <a href="https://github.com/rhankbrguw">
